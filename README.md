@@ -1,6 +1,6 @@
 <h1>Projeto Receitas Veganas</h1>
 
-<p>Refências:</p>
+<p>Referências:</p>
 <p> Imagem do  Banner:site vitaliv,https://vitaliv.com.br/blog/palha-italiana-vegana/ </p>
 
 <p> Descrição da Receita no Banner :Presunto Vegetariano, https://presuntovegetariano.com.br/receitas/palha-italiana-vegana/ </p>
